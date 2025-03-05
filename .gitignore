@@ -9,7 +9,7 @@ __pycache__/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-media
+/media
 
 
 ### Django.Python Stack ###
@@ -149,5 +149,6 @@ poetry.toml
 pyrightconfig.json
 
 venv
+/static
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
